@@ -4,7 +4,7 @@ import { useState } from 'react';
 const D = {
   brand: 'VICTORYTOTO',
   domain: 'victorytotoweblink.com',
-  logo: 'https://i.imgur.com/I2ib9Ex.png',
+  logo: 'https://ik.imagekit.io/md2fquuug/victory_pp.png',
   linkLogin: 'https://loginwap.gelapsekali.com/victory',
   linkDaftar: 'https://daftarwap.gelapsekali.com/victory',
   amphtml: 'victorytotoweblink.com',
